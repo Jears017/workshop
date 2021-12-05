@@ -1,0 +1,27 @@
+.addButtonContainer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.addButton{
+    background-color: #0d6efd;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.actionSection{
+    display: flex;
+    justify-content: space-between;
+    width: 200px
+}
+
+.search{
+    width: 700px;
+}
+
+.tableWrapper{
+    font-size: 15px;
+}

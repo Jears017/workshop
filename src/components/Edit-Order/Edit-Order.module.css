@@ -1,0 +1,29 @@
+.productSelectContainer{
+    display: flex;
+    width: 700px;
+    justify-content: space-between;
+}
+
+.productButton{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.table{
+    width:500px;
+}
+
+.title{
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.submitBtn{
+    margin-top: 1rem;
+}
+
+.currentSum{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}

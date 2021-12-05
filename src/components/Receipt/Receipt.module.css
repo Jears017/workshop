@@ -1,0 +1,39 @@
+.receipt {
+    height: 617px;
+}
+
+.receiptDates {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.receiptTitle {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.receiptClient {
+    margin-top: 10px;
+    font-size: 17px;
+}
+
+.receiptTable {
+    margin-top: 10px;
+}
+
+.receiptTableWrapper {
+}
+
+.receiptSum {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+    margin-top: 25px;
+
+}
+
+.currentSum{
+    border-bottom: 1.5px solid black;
+}

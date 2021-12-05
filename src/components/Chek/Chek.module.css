@@ -1,0 +1,15 @@
+.wrapper{
+    margin: 0 auto;
+    width: 874px;
+    height: 1240px;
+    border: 1px solid grey;
+
+}
+
+.partWrapper{
+    width: 437px;
+    height: 620px;
+    border: 1px solid black;
+
+
+}
